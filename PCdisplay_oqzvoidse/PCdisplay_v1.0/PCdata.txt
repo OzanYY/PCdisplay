@@ -1,0 +1,19 @@
+PCdata[0] // Температура CPU
+PCdata[1] // Температура GPU
+PCdata[2] // Температура Мат. платы ???
+PCdata[3] // Температура диска ???
+PCdata[4] // % Загрузки CPU
+PCdata[5] // % Загрузки GPU
+PCdata[6] // % Загрузки RAM
+PCdata[7] // % загрузки GPU memory
+PCdata[8] = speedMAX; // FAN max
+PCdata[9] = speedMIN; // FAN min
+PCdata[10] = tempMAX; // TEMP max
+PCdata[11] = tempMIN; // TEMP min
+PCdata[12] // Галочка Manual FAN
+PCdata[13] // Галочка Manual Color
+PCdata[14] // Ползунок Manual FAN
+PCdata[15] // Ползунок Manual Color
+PCdata[16] // Ползунок LED Brightness
+PCdata[17] // Ползунок CHART Interval
+PCdata[18] // Temp source

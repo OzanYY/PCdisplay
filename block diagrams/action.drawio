@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T03:53:12.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0XRLN6hOw_BUiue6Mmlm" version="24.6.2" type="device">
+  <diagram name="Страница — 1" id="moGrpUUtTIApZYQkWIgr">
+    <mxGraphModel dx="7119" dy="5900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AcHEKxGcTiRXAweaADiA-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-2" target="AcHEKxGcTiRXAweaADiA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-2" value="Start" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=3.8;verticalAlign=middle;strokeColor=#unset;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d7faf5;strokeWidth=NaN;lucidId=huNK-i~51UBm;" vertex="1" parent="1">
+          <mxGeometry x="-1347.5" y="-3260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-3" target="AcHEKxGcTiRXAweaADiA-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Определяет, отправил ли пользователь форму в пользовательском интерфейсе.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-1525" y="-3110" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-17" target="AcHEKxGcTiRXAweaADiA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-17" value="Определяет, предназначена ли отправленная форма для сохранения данных." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-2390" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-18" target="AcHEKxGcTiRXAweaADiA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-18" value="Копирует значение переменной ssid в пользовательский интерфейс." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-2140" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-19" target="AcHEKxGcTiRXAweaADiA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-19" value="Копирует значение переменной pass в пользовательский интерфейс." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-1870" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-20" target="AcHEKxGcTiRXAweaADiA-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-20" value="Копирует значение переменной mqtt_server в пользовательский интерфейс." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-1620" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-21" target="AcHEKxGcTiRXAweaADiA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-21" value="Копирует значение переменной mqtt_port в пользовательский интерфейс." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-1350" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-22" target="AcHEKxGcTiRXAweaADiA-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-22" value="&lt;div&gt;Запоминаем следующие значения в EEPROM&lt;/div&gt;&lt;div&gt;- SSID по адресу 0&lt;/div&gt;&lt;div&gt;- Пароль по адресу 32&lt;/div&gt;&lt;div&gt;- MQTT-сервер по адресу 64&lt;/div&gt;&lt;div&gt;- Порт MQTT по адресу 128&lt;/div&gt;&lt;div&gt;Кроме того, вызывается функция «EEPROM.commit», чтобы гарантировать сохранение данных.&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-1087.5" y="-1100" width="810" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-23" target="AcHEKxGcTiRXAweaADiA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-23" value="Устанавливает для переменной saveFlag значение true, указывая, что данные были сохранены." style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=kvNKT_QAm0P7;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-790" width="475" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-24" value="End" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=23.3;align=center;spacing=3.8;verticalAlign=middle;strokeColor=#unset;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#d7faf5;strokeWidth=NaN;lucidId=huNK-i~51UBm;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-43" target="AcHEKxGcTiRXAweaADiA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-46" value="&lt;span style=&quot;font-size: 23px;&quot;&gt;Да&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AcHEKxGcTiRXAweaADiA-45">
+          <mxGeometry x="-0.5148" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="AcHEKxGcTiRXAweaADiA-43" target="AcHEKxGcTiRXAweaADiA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-52" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Нет&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AcHEKxGcTiRXAweaADiA-51">
+          <mxGeometry x="-0.9451" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AcHEKxGcTiRXAweaADiA-43" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Если веб-интерфейс работает&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1577.5" y="-2820" width="580" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
